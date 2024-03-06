@@ -1,0 +1,9 @@
+[color]
+	ui = true
+[user "name"]
+	ui = true
+[init]
+	defaultBranch = main
+[user]
+	name = whitney shisia
+	email = shisiawhitney215@gmail.com
